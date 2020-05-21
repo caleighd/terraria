@@ -42,4 +42,6 @@ docker attach terraria
 ```
 
 
-You can type in **exit** to leave the server console/container, since the restart policy is set to **unless-stopped** the container (and Dedicated Server) will restart automatically.
+You can type in **exit** to leave the server console/container, since the restart policy is set to **unless-stopped** the container (and Dedicated Server) will restart automatically. 
+
+
